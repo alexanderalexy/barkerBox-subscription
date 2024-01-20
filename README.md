@@ -41,7 +41,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Preview
 
-deployed version [here](https://www.ikea.com/).
+deployed version [here](https://alexanderalexy.github.io/barkerBox-subscription/).
 
 ## Author
 Alexander Alexy
