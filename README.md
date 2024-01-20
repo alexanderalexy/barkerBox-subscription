@@ -21,10 +21,10 @@ To get this form running on your local machine, follow these steps:
 
 1. Clone or download the repository to your local machine.
 2. Navigate to the project directory.
-3. Open the `subscribe.html` file in a web browser to view the form.
+3. Open the `index.html` file in a web browser to view the form.
 
 ## Structure
-- `subscribe.html`: The main HTML file that contains the structure of the subscription form.
+- `index.html`: The main HTML file that contains the structure of the subscription form.
 - `style.css`: The CSS file that styles the subscription form.
 
 ## Customization
